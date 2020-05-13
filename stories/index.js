@@ -1541,7 +1541,7 @@ storiesOf("Search components/CategorySearch", module)
       />
     )
   )
-		.add(
+	.add(
 		"With enableQuerySuggestions",
 		() => (
 			<CategorySearchDefault
